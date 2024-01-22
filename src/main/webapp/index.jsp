@@ -5,7 +5,7 @@
   
   <h2> Call Us : + 91 - 1234567/ 98776543678</h2>
   
-  <h3> Ofc Location : TrishaktiNager colony, IBP </h3>
+  <h3> Ofc Location : TrishaktiNager colony 09, IBP </h3>
   
   <h1> Learn Here.. Lead Anywhere..!! </h1>
 
