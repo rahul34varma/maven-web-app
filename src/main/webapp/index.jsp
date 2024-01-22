@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to IBP Intitute of PostgreySQL- Software Training Institute <font></h1>
+<h1><font color='red'> Welcome to rahul Intitute of PostgreySQL- Software Training Institute <font></h1>
 
   
   <h2> Call Us : + 91 - 1234567/ 98776543678</h2>
