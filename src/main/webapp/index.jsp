@@ -1,9 +1,9 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to rahul Intitute of PostgreySQL- it non it Software Training Institute <font></h1>
+<h1><font color='red'> Welcome to rahul Intitute of PostgreySQL- it non it ... Software Training Institute <font></h1>
 
   
-  <h2> Call Us : + 91 - 1234567/ 98776543678</h2>
+  <h2> Call Us : + 91 - 1234567786/ 98776543678</h2>
   
   <h3> Ofc Location : TrishaktiNager colony 00, IBP </h3>
   
