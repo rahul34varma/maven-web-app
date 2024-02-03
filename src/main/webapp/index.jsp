@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='blue'> Welcome to Rahul Intitute of PostgreySQL...- IT non IT ... Software Training Institute <font></h1>
+<h1><font color='yellow'> Welcome to Rahul Intitute of PostgreySQL...- IT non IT ... Software Training Institute <font></h1>
 
   
   <h2> Call Us : + 91 - 1234567786/ 98776543678</h2>
